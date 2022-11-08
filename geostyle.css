@@ -1,0 +1,12 @@
+H1 {color: #003399; font: bold 16px arial, verdana, helvetica; text-decoration: none;}
+P {color: #000000; font: 11px verdana, arial, helvetica; text-decoration: none;}
+A {color: #003399; font: 11px verdana, arial, helvetica; text-decoration: underline;}
+UL {color: #000000; font: 11px verdana, arial, helvetica; text-decoration: none;}
+B {color: #000000; font: bold 11px verdana, arial, helvetica; text-decoration: none;}
+
+.paks {color: #000000; font: bold 11px verdana, arial, helvetica; text-decoration: none;}
+.kollane {color: #000000; font: bold 11px verdana, arial, helvetica; text-decoration: none;}
+.kollane:HOVER {color: #000000; font: bold 11px verdana, arial, helvetica; text-decoration: underline;}
+.kollaneact {color: #003399; font: bold 11px verdana, arial, helvetica; text-decoration: none;}
+.hall {color: #000000; font: 10px verdana, arial, helvetica; text-decoration: none;}
+.list {color: #000000; font: 11px verdana, arial, helvetica; text-decoration: none;}
